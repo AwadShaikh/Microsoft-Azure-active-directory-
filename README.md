@@ -7,7 +7,7 @@ Microsoft Active Directory (AD) simplifies user authentication and authorization
 
 
 <h2>Languages and Utilities Used</h2>
-Microsoft IntraId
+Microsoft EntraId
 <h2>Environments Used </h2>
 
 <b> Windows 10 </b> 
@@ -15,16 +15,28 @@ Microsoft IntraId
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Selecting Apps type that needs to be installed : <br/>
-<img src="https://imgur.com/pxoYlWR.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+Creating new user AD : <br/>
+<img src="https://imgur.com/OOZYEVw.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Selecting Microsoft Word to install on the iphone:  <br/>
-<img src="https://imgur.com/qI2fLXV.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+Creating new user to the AD named Ashish and assigning the useer password:  <br/>
+<img src="https://imgur.com/J1pVtTF.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Successfully Installed Microsoft Word onto the iphone : <br/>
-<img src="https://imgur.com/OaR9vDz.png"height="90%" width="90%" alt="Disk Sanitization Steps"/>
+Successfully Created the new user Ashish : <br/>
+<img src="https://imgur.com/nrNmNHY.png"height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Creating new group named IT Support Sydney  : <br/>
+<img src="https://imgur.com/0sFahUJ.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Adding members to our newly created group IT Support Sydney:  <br/>
+<img src="https://imgur.com/fUzKPR6.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Adding Awad, Adam and Ashish to group IT support Sydney : <br/>
+<img src="https://imgur.com/KcqrUoA.png"height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
