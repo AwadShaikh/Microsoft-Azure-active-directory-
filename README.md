@@ -39,5 +39,21 @@ Adding Awad, Adam and Ashish to group IT support Sydney : <br/>
 <img src="https://imgur.com/KcqrUoA.png"height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Assigning role based access policy to active users Jessy: <br/>
+<img src="https://imgur.com/CofxlA6.png"height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Assigning Jessy team Admin role  : <br/>
+<img src="https://imgur.com/mzuzH38.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Successfully assigned Jessy team admin role :  <br/>
+<img src="https://imgur.com/hIoYgxI.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Adding Awad, Adam and Ashish to group IT support Sydney : <br/>
+<img src="https://imgur.com/KcqrUoA.png"height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 
