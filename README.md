@@ -51,8 +51,12 @@ Successfully assigned Jessy team admin role :  <br/>
 <img src="https://imgur.com/hIoYgxI.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Adding Awad, Adam and Ashish to group IT support Sydney : <br/>
-<img src="https://imgur.com/KcqrUoA.png"height="90%" width="90%" alt="Disk Sanitization Steps"/>
+Resetting user named Adams password : <br/>
+<img src="https://imgur.com/8t4o4wM.png"height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Successfully resetted Adams password : <br/>
+<img src="https://imgur.com/xWXdS50.png"height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
