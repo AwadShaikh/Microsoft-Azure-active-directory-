@@ -15,7 +15,7 @@ Microsoft EntraId
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Creating new user AD : <br/>
+Creating new user  : <br/>
 <img src="https://imgur.com/OOZYEVw.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
